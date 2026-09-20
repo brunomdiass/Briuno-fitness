@@ -1,5 +1,3 @@
-# Bruno Fitness V1.1
-
-Atualização da PWA com histórico, temporizador de descanso, registo de treino, medições, nutrição, água e progresso.
-
-Substitui os ficheiros da versão anterior no teu alojamento HTTPS.
+# Bruno Fitness V2
+PWA para iPhone. Inclui perfil, treinos editáveis, séries/repetições/carga/RIR, explicações dos conceitos, progressão, histórico, descanso, nutrição, receitas com imagens e progresso.
+Os vídeos podem ser ligados individualmente numa evolução seguinte.
